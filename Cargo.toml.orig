@@ -1,12 +1,3 @@
-[package]
-name = "pin-utils"
-edition = "2018"
-version = "0.1.0"
-authors = ["Josef Brandl <mail@josefbrandl.de>"]
-license = "MIT OR Apache-2.0"
-readme = "README.md"
-repository = "https://github.com/rust-lang-nursery/pin-utils"
-documentation = "https://docs.rs/pin-utils"
-description = """
-Utilities for pinning
-"""
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d185a7525554da0de1d234d93e7632f64dd9617b3ac948fe2aa0f4c95c006b1
+size 314
